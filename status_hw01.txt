@@ -9,7 +9,6 @@ I used Vultr and namecheap for hosting + domain.
 
 3. What domain name did you register?
 downwind.xyz
-www.downwind.xyz
 
 4. What's the URL of your Github repository for this assignment?
 https://github.com/trevorstenson/CS4550-HW01.git
